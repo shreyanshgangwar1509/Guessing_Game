@@ -1,0 +1,27 @@
+html,body{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    /* padding: 2vb; */
+    background-color: #212121;
+    color: #fff;
+}
+.box{
+    
+    padding: 5px;
+    align-content: center;
+    border: 2px blanchedalmond solid;
+    border-radius: 5px;
+    padding: 5px;
+}
+h1{
+    width: 100%;
+    height: 2vh;
+    /* font-weight: 400; */
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
